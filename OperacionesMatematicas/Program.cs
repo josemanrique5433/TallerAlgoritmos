@@ -16,7 +16,7 @@ rest = num1 - num2;
 prod = num1 * num2;
 coc = num1 / num2;
 
-Console.WriteLine("La suma de " + num1 + "+" + num2 + "=" + sum);
-Console.WriteLine("La resta de " + num1 + "-" + num2 + "=" + rest);
-Console.WriteLine("La Multiplicación de " + num1 + "x" + num2 + "=" + prod);
-Console.WriteLine("La división de " + num1 + "/" + num2 + "=" + coc);
+Console.WriteLine("La suma de " + num1 + " + " + num2 + " = " + sum);
+Console.WriteLine("La resta de " + num1 + " - " + num2 + " = " + rest);
+Console.WriteLine("La Multiplicación de " + num1 + " x " + num2 + " = " + prod);
+Console.WriteLine("La división de " + num1 + " / " + num2 + " = " + coc);
